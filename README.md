@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @BhekiNdhlovu
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Angular and VueJs
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me bhekindhlovu7@gmail.com
+- ⚡ Fun fact ...One of my favorite things to do is play video games
